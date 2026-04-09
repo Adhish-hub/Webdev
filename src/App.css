@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 50px;
+  flex-wrap: wrap;
+}
+
+ body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+
+  background: linear-gradient(
+    135deg,
+    #1e3c72,
+    #2a5298,
+    #6dd5ed
+  );
+
+  font-family: Arial, sans-serif;
+} 
+
+
+
