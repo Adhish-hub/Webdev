@@ -1,0 +1,15 @@
+.grid-item {
+    display: inline-block;
+    width: 30%;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.list-item {
+    display: block;
+    width: 100%;
+    border: 1px solid black;
+    margin: 10px 0;
+    padding: 10px;
+}
