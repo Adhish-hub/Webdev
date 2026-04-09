@@ -1,4 +1,4 @@
-.container {
+/* .container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -67,4 +67,4 @@ button:disabled {
 
 button:hover:not(:disabled) {
     opacity: 0.8;
-}
+} */
